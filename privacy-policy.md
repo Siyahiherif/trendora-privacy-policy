@@ -1,13 +1,13 @@
 # Gizlilik Politikasi
 
-Yürürlük Tarihi: 04 Kasim 2025  
+YÃ¼rÃ¼rlÃ¼k Tarihi: 04 KasÄ±m 2025  
 Uygulama Adi: Trendora  
 Gelistirici: Dogukan Ilgaz
 
 ## 1. Giris
 
-Bu gizlilik politikasi, Trendora uygulamasini (bundan sonra “uygulama” olarak anilacaktir) kullanirken kisisel verilerinizin nasil toplandigini, islendigini ve korundugunu açiklar.
-Uygulama, içerik üretimi ve fikir önerileri için yapay zekâ teknolojilerini (OpenAI API) kullanir.
+Bu gizlilik politikasÄ±, Trendora uygulamasini (bundan sonra â€œuygulamaâ€ olarak anilacaktir) kullanirken kisisel verilerinizin nasil toplandigini, islendigini ve korundugunu aÃ§iklar.
+Uygulama, iÃ§erik Ã¼retimi ve fikir Ã¶nerileri iÃ§in yapay zekÃ¢ teknolojilerini (OpenAI API) kullanir.
 Uygulamayi kullanarak bu politikayi kabul etmis olursunuz.
 
 ## 2. Toplanan Bilgiler
@@ -15,41 +15,41 @@ Uygulamayi kullanarak bu politikayi kabul etmis olursunuz.
 Uygulamayi kullanirken asagidaki veriler toplanabilir:
 
 - Kayit Bilgileri: Ad, soyad, e-posta adresi, yas bilgisi.
-- Kullanim Verileri: Uygulama içi etkilesimler (örnegin içerik planlama, fikir olusturma vb.).
-- Teknik Bilgiler: Cihaz modeli, isletim sistemi sürümü, uygulama sürümü (performans takibi için anonim sekilde).
+- Kullanim Verileri: Uygulama iÃ§i etkilesimler (Ã¶rnegin iÃ§erik planlama, fikir olusturma vb.).
+- Teknik Bilgiler: Cihaz modeli, isletim sistemi sÃ¼rÃ¼mÃ¼, uygulama sÃ¼rÃ¼mÃ¼ (performans takibi iÃ§in anonim sekilde).
 
 Uygulama kamera, mikrofon, konum veya dosya erisimi istemez.  
-Kredi karti veya ödeme bilgileri yalnizca Google Play / App Store üzerinden islenir; gelistirici bu bilgilere erismez.
+Kredi karti veya Ã¶deme bilgileri yalnizca Google Play / App Store Ã¼zerinden islenir; gelistirici bu bilgilere erismez.
 
 ## 3. Verilerin Kullanimi
 
-Toplanan veriler asagidaki amaçlarla kullanilabilir:
+Toplanan veriler asagidaki amaÃ§larla kullanilabilir:
 
 - Hesap olusturma ve kimlik dogrulama,
-- Kisisellestirilmis içerik önerileri sunmak,
-- Yapay zekâ destekli analiz ve öneriler olusturmak,
+- Kisisellestirilmis iÃ§erik Ã¶nerileri sunmak,
+- Yapay zekÃ¢ destekli analiz ve Ã¶neriler olusturmak,
 - Teknik sorunlari gidermek ve performansi artirmak.
 
-## 4. Yapay Zekâ (OpenAI) Kullanimi
+## 4. Yapay ZekÃ¢ (OpenAI) Kullanimi
 
-Uygulama, içerik önerileri ve metin olusturma islemlerinde OpenAI API kullanir.
-Bu süreçte yalnizca kullanicinin gönderdigi metin girdileri (örnegin “fitness alaninda paylasim fikri olustur”) OpenAI sunucularina iletilir.
-OpenAI bu verileri geçici olarak isler, ancak uygulama gelistiricisi olarak sizin kisisel verilerinizi dogrudan paylasmayiz.
+Uygulama, iÃ§erik Ã¶nerileri ve metin olusturma islemlerinde OpenAI API kullanir.
+Bu sÃ¼reÃ§te yalnizca kullanicinin gÃ¶nderdigi metin girdileri (Ã¶rnegin â€œfitness alaninda paylasim fikri olusturâ€) OpenAI sunucularina iletilir.
+OpenAI bu verileri geÃ§ici olarak isler, ancak uygulama gelistiricisi olarak sizin kisisel verilerinizi dogrudan paylasmayiz.
 
-OpenAI’nin gizlilik politikasi için:  
+OpenAIâ€™nin gizlilik politikasi iÃ§in:  
 ?? https://openai.com/privacy
 
-## 5. Verilerin Saklanmasi ve Güvenlik
+## 5. Verilerin Saklanmasi ve GÃ¼venlik
 
-Veriler Firebase altyapisinda saklanir ve HTTPS üzerinden sifreli olarak iletilir.  
-Kullanici hesaplari güvenli kimlik dogrulama yöntemleri (Firebase Authentication) ile korunur.
+Veriler Firebase altyapisinda saklanir ve HTTPS Ã¼zerinden sifreli olarak iletilir.  
+Kullanici hesaplari gÃ¼venli kimlik dogrulama yÃ¶ntemleri (Firebase Authentication) ile korunur.
 
-## 6. Üçüncü Taraf Hizmetleri
+## 6. ÃœÃ§Ã¼ncÃ¼ Taraf Hizmetleri
 
 Uygulama su hizmetlerden yararlanabilir:
 
-- Firebase – kullanici kimlik dogrulama ve veri depolama,
-- OpenAI – yapay zekâ tabanli içerik önerileri,
+- Firebase â€“ kullanici kimlik dogrulama ve veri depolama,
+- OpenAI â€“ yapay zekÃ¢ tabanli iÃ§erik Ã¶nerileri,
 
 Bu hizmetler, kendi gizlilik politikalarina tabidir.
 
@@ -58,19 +58,14 @@ Bu hizmetler, kendi gizlilik politikalarina tabidir.
 Kullanicilar;
 
 - Verilerine erisme,
-- Düzeltme,
+- DÃ¼zeltme,
 - Hesabini silme hakkina sahiptir.
 
-Herhangi bir talep için bizimle iletisime geçebilirsiniz:  
+Herhangi bir talep iÃ§in bizimle iletisime geÃ§ebilirsiniz:  
 ?? dogukanilgaz2@gmail.com
 
 ## 8. Degisiklikler
 
-Bu politika gerektiginde güncellenebilir. Güncellemeler uygulama içinden duyurulacaktir.
+Bu politika gerektiginde gÃ¼ncellenebilir. GÃ¼ncellemeler uygulama iÃ§inden duyurulacaktir.
 
----
 
-## ? Kayit Ekrani Onay Metni
-
-- [ ] Gizlilik Politikasini okudum ve kabul ediyorum.  
-(Kisisel verilerimin yalnizca hesap olusturma ve yapay zekâ önerileri için islenecegini kabul ediyorum.)
