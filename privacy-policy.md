@@ -62,7 +62,7 @@ Kullanicilar;
 - Hesabini silme hakkina sahiptir.
 
 Herhangi bir talep için bizimle iletisime geçebilirsiniz:  
-?? dogukanilgaz2@gmail.com
+ dogukanilgaz2@gmail.com
 
 ## 8. Degisiklikler
 
